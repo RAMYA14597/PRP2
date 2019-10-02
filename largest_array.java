@@ -33,9 +33,5 @@ if(c==0)
 {
 System.out.println(tmp[count-1]);
 }
-else
-{
-System.out.println("0");
-}
 }
 }
