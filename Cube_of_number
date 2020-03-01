@@ -1,0 +1,3 @@
+N=int(input(enter the value:"))
+cube_root=N**3
+print(cube_root)
